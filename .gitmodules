@@ -1,0 +1,3 @@
+[submodule "examples/startup-gen-streamlit"]
+	path = examples/startup-gen-streamlit
+	url = https://github.com/tshenqka/startup-gen-streamlit.git
